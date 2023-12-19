@@ -1,5 +1,4 @@
-# Python 3 program to find 
-# factorial of given number
+
 def factorial(n):
 	
 	# single line to find factorial

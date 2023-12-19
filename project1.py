@@ -1,5 +1,4 @@
-# Function to extract maximum numeric value from 
-# a given string
+
 import re
 
 def extractMax(input):
